@@ -33,8 +33,6 @@ Este proyecto se distribuye bajo la licencia MIT.
 
 ---
 
-Here is the README in English:
-
 **Go-Secure-Input**
 
 A Go web server that validates and sanitizes user input to prevent code injection and Cross-Site Scripting (XSS) attacks.
